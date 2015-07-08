@@ -1,1 +1,0 @@
-# OpenCV_Sample_Android_Porting
